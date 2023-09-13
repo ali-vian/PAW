@@ -1,0 +1,18 @@
+table,
+tr,
+td {
+  border: 1px solid;
+  text-align: center;
+}
+.yellow {
+  background-color: yellow;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.brown {
+  background-color: blue;
+}
